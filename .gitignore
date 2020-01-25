@@ -3,3 +3,6 @@
 ################################################################################
 
 /MachineTestNimap_Amol/bin
+/DAL/bin/Debug
+/DAL/obj/Debug
+/MachineTestNimap_Amol/obj/Debug
